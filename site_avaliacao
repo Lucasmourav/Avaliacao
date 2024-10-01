@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechGears - Loja de Hardware</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>TechGears</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Início</a></li>
+                <li><a href="#">Produtos</a></li>
+                <li><a href="#">Sobre Nós</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Bem-vindo à TechGears!</h2>
+            <p>Encontre as melhores peças de hardware para seu computador: processadores, placas de vídeo, memórias e muito mais.</p>
+        </section>
+
+        <section>
+            <h3>Produtos em destaque</h3>
+            <ul>
+                <li>Processador Intel Core i9</li>
+                <li>Placa de Vídeo NVIDIA RTX 3080</li>
+                <li>Memória RAM Corsair 16GB DDR4</li>
+                <li>SSD Samsung 1TB</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 TechGears. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
