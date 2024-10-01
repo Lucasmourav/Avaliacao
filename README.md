@@ -6,7 +6,7 @@ ramo main contem: o site com front e backend feitos no chat gpt
 ramo administraca contem: a area do administrador
 
 acesso ao site
-no git hub: ir na aba ao lado e clina no link https://lucasmourav.github.io/Avaliacao/
+no git hub: ir na aba ao lado e clina no link no about
 
 comandos utilizados:
 git clone 
